@@ -7,4 +7,6 @@ Usado números pré-definidos para o programa não entrar em loop infinito.
 
 Feito como desafio da imersão dev da Alura no início de 2023.
 
-[Link do Jogo] https://codepen.io/pamiss/pen/WNgKrKV
+# [Link do Jogo] 
+
+https://codepen.io/pamiss/pen/WNgKrKV
